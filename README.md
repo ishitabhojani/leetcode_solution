@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/ishitabhojani/leetcode_solution/tree/master/0400-nth-digit) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -41,4 +42,8 @@
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/ishitabhojani/leetcode_solution/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
