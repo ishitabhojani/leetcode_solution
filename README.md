@@ -40,6 +40,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -75,10 +76,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 ## Sorting
 |  |
 | ------- |
