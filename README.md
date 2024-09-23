@@ -8,6 +8,7 @@
 | [0125-valid-palindrome](https://github.com/ishitabhojani/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ishitabhojani/leetcode_solution/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/ishitabhojani/leetcode_solution/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -16,6 +17,7 @@
 | [0125-valid-palindrome](https://github.com/ishitabhojani/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ishitabhojani/leetcode_solution/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ishitabhojani/leetcode_solution/tree/master/1894-merge-strings-alternately) |
 ## Math
