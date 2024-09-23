@@ -16,6 +16,7 @@
 | [0020-valid-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ishitabhojani/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ishitabhojani/leetcode_solution/tree/master/0443-string-compression) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Binary Search
