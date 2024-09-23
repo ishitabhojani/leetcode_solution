@@ -22,6 +22,7 @@
 | [0443-string-compression](https://github.com/ishitabhojani/leetcode_solution/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ishitabhojani/leetcode_solution/tree/master/1894-merge-strings-alternately) |
+| [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@
 | [0205-isomorphic-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Binary Search
 |  |
@@ -70,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Union Find
 |  |
