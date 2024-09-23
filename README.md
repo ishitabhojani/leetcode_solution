@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
