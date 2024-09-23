@@ -23,6 +23,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ishitabhojani/leetcode_solution/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/ishitabhojani/leetcode_solution/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2727-number-of-senior-citizens](https://github.com/ishitabhojani/leetcode_solution/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
 | ------- |
