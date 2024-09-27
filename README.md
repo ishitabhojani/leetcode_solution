@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/ishitabhojani/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ishitabhojani/leetcode_solution/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/ishitabhojani/leetcode_solution/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -20,6 +21,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ishitabhojani/leetcode_solution/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2428-equal-row-and-column-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
