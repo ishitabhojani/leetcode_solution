@@ -141,4 +141,12 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ishitabhojani/leetcode_solution/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
