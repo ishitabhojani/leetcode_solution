@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ishitabhojani/leetcode_solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ishitabhojani/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
@@ -72,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ishitabhojani/leetcode_solution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
