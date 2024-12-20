@@ -43,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ishitabhojani/leetcode_solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ishitabhojani/leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/ishitabhojani/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -129,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
 ## Design
 |  |
@@ -155,4 +157,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/ishitabhojani/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ishitabhojani/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
