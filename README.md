@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishitabhojani/leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ishitabhojani/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ishitabhojani/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ishitabhojani/leetcode_solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ishitabhojani/leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
