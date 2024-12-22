@@ -47,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/ishitabhojani/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/ishitabhojani/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ishitabhojani/leetcode_solution/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -131,6 +133,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
