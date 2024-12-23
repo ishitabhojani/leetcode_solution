@@ -50,6 +50,7 @@
 | [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/ishitabhojani/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
 ## Design
 |  |
