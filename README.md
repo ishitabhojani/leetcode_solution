@@ -32,6 +32,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishitabhojani/leetcode_solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/ishitabhojani/leetcode_solution/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/2032-largest-odd-number-in-string) |
 | [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ishitabhojani/leetcode_solution/tree/master/2727-number-of-senior-citizens) |
 ## Math
@@ -40,6 +41,7 @@
 | [0400-nth-digit](https://github.com/ishitabhojani/leetcode_solution/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ishitabhojani/leetcode_solution/tree/master/0649-dota2-senate) |
+| [2032-largest-odd-number-in-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
