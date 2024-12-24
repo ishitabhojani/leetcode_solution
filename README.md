@@ -28,6 +28,7 @@
 | [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ishitabhojani/leetcode_solution/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/ishitabhojani/leetcode_solution/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -88,6 +89,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishitabhojani/leetcode_solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -134,6 +137,7 @@
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishitabhojani/leetcode_solution/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -179,4 +183,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
