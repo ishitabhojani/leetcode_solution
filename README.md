@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ishitabhojani/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ishitabhojani/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ishitabhojani/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0400-nth-digit](https://github.com/ishitabhojani/leetcode_solution/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishitabhojani/leetcode_solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ishitabhojani/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
