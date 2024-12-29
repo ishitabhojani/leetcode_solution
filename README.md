@@ -47,6 +47,7 @@
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ishitabhojani/leetcode_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
