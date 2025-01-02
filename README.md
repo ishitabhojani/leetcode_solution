@@ -49,6 +49,7 @@
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/ishitabhojani/leetcode_solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2722-prime-in-diagonal](https://github.com/ishitabhojani/leetcode_solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2831-number-of-beautiful-pairs) |
@@ -213,6 +214,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/ishitabhojani/leetcode_solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2722-prime-in-diagonal](https://github.com/ishitabhojani/leetcode_solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2831-number-of-beautiful-pairs) |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/ishitabhojani/leetcode_solution/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
