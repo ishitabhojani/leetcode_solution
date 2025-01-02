@@ -63,6 +63,7 @@
 | [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/ishitabhojani/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ishitabhojani/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0605-can-place-flowers) |
@@ -168,6 +169,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ishitabhojani/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/ishitabhojani/leetcode_solution/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -213,4 +215,8 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2722-prime-in-diagonal](https://github.com/ishitabhojani/leetcode_solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2831-number-of-beautiful-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ishitabhojani/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
