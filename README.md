@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ishitabhojani/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0400-nth-digit](https://github.com/ishitabhojani/leetcode_solution/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/ishitabhojani/leetcode_solution/tree/master/0412-fizz-buzz) |
@@ -191,6 +192,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ishitabhojani/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
@@ -202,6 +204,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ishitabhojani/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ishitabhojani/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0206-reverse-linked-list) |
