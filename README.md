@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishitabhojani/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ishitabhojani/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
@@ -25,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishitabhojani/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ishitabhojani/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/0020-valid-parentheses) |
@@ -174,6 +176,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishitabhojani/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
