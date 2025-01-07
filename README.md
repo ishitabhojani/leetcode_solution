@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ishitabhojani/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishitabhojani/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0234-palindrome-linked-list) |
@@ -146,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -201,6 +203,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ishitabhojani/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishitabhojani/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ishitabhojani/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0206-reverse-linked-list) |
@@ -219,6 +222,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
@@ -252,4 +256,8 @@
 | ------- |
 | [2083-three-divisors](https://github.com/ishitabhojani/leetcode_solution/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/ishitabhojani/leetcode_solution/tree/master/2507-number-of-common-factors) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
