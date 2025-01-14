@@ -8,6 +8,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ishitabhojani/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ishitabhojani/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/ishitabhojani/leetcode_solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ishitabhojani/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ishitabhojani/leetcode_solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ishitabhojani/leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ishitabhojani/leetcode_solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
