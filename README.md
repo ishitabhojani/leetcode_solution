@@ -10,6 +10,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ishitabhojani/leetcode_solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/ishitabhojani/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
@@ -207,6 +208,7 @@
 | [0002-add-two-numbers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ishitabhojani/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
