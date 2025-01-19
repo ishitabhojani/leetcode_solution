@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/ishitabhojani/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -196,11 +197,13 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ishitabhojani/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/ishitabhojani/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/ishitabhojani/leetcode_solution/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ishitabhojani/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/ishitabhojani/leetcode_solution/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/ishitabhojani/leetcode_solution/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
