@@ -85,6 +85,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ishitabhojani/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
@@ -144,6 +145,7 @@
 | [0020-valid-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ishitabhojani/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -286,5 +288,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
