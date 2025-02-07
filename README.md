@@ -45,6 +45,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/ishitabhojani/leetcode_solution/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishitabhojani/leetcode_solution/tree/master/1777-determine-if-two-strings-are-close) |
@@ -150,6 +151,7 @@
 | [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
