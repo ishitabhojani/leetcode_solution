@@ -86,6 +86,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ishitabhojani/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
@@ -125,6 +126,7 @@
 | [0205-isomorphic-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/ishitabhojani/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ishitabhojani/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ishitabhojani/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
 | ------- |
