@@ -49,6 +49,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishitabhojani/leetcode_solution/tree/master/1777-determine-if-two-strings-are-close) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/ishitabhojani/leetcode_solution/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/2032-largest-odd-number-in-string) |
 | [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
@@ -133,6 +134,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishitabhojani/leetcode_solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2428-equal-row-and-column-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ishitabhojani/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishitabhojani/leetcode_solution/tree/master/1777-determine-if-two-strings-are-close) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ishitabhojani/leetcode_solution/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2831-number-of-beautiful-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2831-number-of-beautiful-pairs) |
 ## Matrix
 |  |
