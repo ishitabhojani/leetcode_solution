@@ -307,6 +307,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ishitabhojani/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,4 +323,9 @@
 | ------- |
 | [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ishitabhojani/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ishitabhojani/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
