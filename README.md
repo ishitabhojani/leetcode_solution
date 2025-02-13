@@ -302,4 +302,20 @@
 | [0496-next-greater-element-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
