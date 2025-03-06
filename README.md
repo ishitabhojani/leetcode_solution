@@ -71,6 +71,7 @@
 | [2083-three-divisors](https://github.com/ishitabhojani/leetcode_solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/ishitabhojani/leetcode_solution/tree/master/2507-number-of-common-factors) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ishitabhojani/leetcode_solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2722-prime-in-diagonal](https://github.com/ishitabhojani/leetcode_solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/ishitabhojani/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
