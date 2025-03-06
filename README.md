@@ -73,6 +73,7 @@
 | [2507-number-of-common-factors](https://github.com/ishitabhojani/leetcode_solution/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/ishitabhojani/leetcode_solution/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2831-number-of-beautiful-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/ishitabhojani/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [2722-prime-in-diagonal](https://github.com/ishitabhojani/leetcode_solution/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/ishitabhojani/leetcode_solution/tree/master/2727-number-of-senior-citizens) |
 | [2831-number-of-beautiful-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2831-number-of-beautiful-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/ishitabhojani/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ishitabhojani/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2831-number-of-beautiful-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2831-number-of-beautiful-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/ishitabhojani/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 | [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2722-prime-in-diagonal](https://github.com/ishitabhojani/leetcode_solution/tree/master/2722-prime-in-diagonal) |
+| [3227-find-missing-and-repeated-values](https://github.com/ishitabhojani/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
