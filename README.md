@@ -106,6 +106,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/ishitabhojani/leetcode_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/ishitabhojani/leetcode_solution/tree/master/2502-sort-the-people) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ishitabhojani/leetcode_solution/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2551-apply-operations-to-an-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ishitabhojani/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
