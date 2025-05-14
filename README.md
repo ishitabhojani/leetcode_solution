@@ -348,4 +348,8 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishitabhojani/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ishitabhojani/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/ishitabhojani/leetcode_solution/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
