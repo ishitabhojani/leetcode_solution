@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ishitabhojani/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishitabhojani/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
@@ -95,6 +96,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishitabhojani/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishitabhojani/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ishitabhojani/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishitabhojani/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/ishitabhojani/leetcode_solution/tree/master/0400-nth-digit) |
 ## Stack
@@ -208,6 +211,7 @@
 | [0029-divide-two-integers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ishitabhojani/leetcode_solution/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ishitabhojani/leetcode_solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
