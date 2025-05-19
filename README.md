@@ -108,6 +108,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -241,6 +242,7 @@
 | [0152-maximum-product-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ishitabhojani/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/ishitabhojani/leetcode_solution/tree/master/0649-dota2-senate) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/ishitabhojani/leetcode_solution/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -291,6 +294,7 @@
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ishitabhojani/leetcode_solution/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -369,4 +373,8 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/ishitabhojani/leetcode_solution/tree/master/0185-department-top-three-salaries) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
