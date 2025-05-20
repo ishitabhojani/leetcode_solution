@@ -88,6 +88,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishitabhojani/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ishitabhojani/leetcode_solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ishitabhojani/leetcode_solution/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/ishitabhojani/leetcode_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
@@ -382,4 +383,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ishitabhojani/leetcode_solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
