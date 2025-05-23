@@ -28,6 +28,7 @@
 | [0443-string-compression](https://github.com/ishitabhojani/leetcode_solution/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ishitabhojani/leetcode_solution/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0908-middle-of-the-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/ishitabhojani/leetcode_solution/tree/master/1002-maximum-width-ramp) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ishitabhojani/leetcode_solution/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -117,6 +118,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ishitabhojani/leetcode_solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1002-maximum-width-ramp](https://github.com/ishitabhojani/leetcode_solution/tree/master/1002-maximum-width-ramp) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -195,6 +197,7 @@
 | [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/ishitabhojani/leetcode_solution/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -358,6 +361,7 @@
 | [0496-next-greater-element-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/ishitabhojani/leetcode_solution/tree/master/1002-maximum-width-ramp) |
 ## Tree
 |  |
 | ------- |
