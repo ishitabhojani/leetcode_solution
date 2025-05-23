@@ -1,24 +1,27 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-
         int n = nums.size();
-        vector<int>nge(n);
-        vector<int>pge(n);
-        stack<int>st;
-        for(int i=n-2; i>=0; i--){
-            st.push(nums[i]);
-        }
-        for(int i = n-1;i>=0;i--){
-            while(!st.empty() && st.top()<=nums[i]){
+        vector<int> result(n, -1); // Initialize result with -1
+        stack<int> st; // Stack to store the next greater elements
+
+        for (int i = 2 * n - 1; i >= 0; --i) {
+            int num = nums[i % n];
+            
+            // Pop elements that are smaller or equal to current
+            while (!st.empty() && st.top() <= num) {
                 st.pop();
             }
-            if(st.empty()) nge[i] = -1;
-            else nge[i] = st.top();
 
-            st.push(nums[i]);
+            // If stack is not empty, the top is the next greater element
+            if (!st.empty()) {
+                result[i % n] = st.top();
+            }
+
+            // Push current element to stack
+            st.push(num);
         }
-        
-        return nge;
+
+        return result;
     }
 };
