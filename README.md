@@ -200,6 +200,7 @@
 | [0496-next-greater-element-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ishitabhojani/leetcode_solution/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/ishitabhojani/leetcode_solution/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/ishitabhojani/leetcode_solution/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/ishitabhojani/leetcode_solution/tree/master/1078-remove-outermost-parentheses) |
@@ -272,6 +273,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ishitabhojani/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/ishitabhojani/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+| [0937-online-stock-span](https://github.com/ishitabhojani/leetcode_solution/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ishitabhojani/leetcode_solution/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -283,6 +285,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/ishitabhojani/leetcode_solution/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ishitabhojani/leetcode_solution/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -368,6 +371,7 @@
 | [0085-maximal-rectangle](https://github.com/ishitabhojani/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ishitabhojani/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishitabhojani/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/ishitabhojani/leetcode_solution/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/ishitabhojani/leetcode_solution/tree/master/1002-maximum-width-ramp) |
 ## Tree
