@@ -121,6 +121,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/ishitabhojani/leetcode_solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/ishitabhojani/leetcode_solution/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/ishitabhojani/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/ishitabhojani/leetcode_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ishitabhojani/leetcode_solution/tree/master/0085-maximal-rectangle) |
+| [1036-rotting-oranges](https://github.com/ishitabhojani/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/ishitabhojani/leetcode_solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2722-prime-in-diagonal](https://github.com/ishitabhojani/leetcode_solution/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/ishitabhojani/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -395,6 +397,7 @@
 | [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0801-is-graph-bipartite](https://github.com/ishitabhojani/leetcode_solution/tree/master/0801-is-graph-bipartite) |
+| [1036-rotting-oranges](https://github.com/ishitabhojani/leetcode_solution/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
