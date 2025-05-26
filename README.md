@@ -231,6 +231,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/ishitabhojani/leetcode_solution/tree/master/0801-is-graph-bipartite) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -387,11 +388,13 @@
 | [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishitabhojani/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/ishitabhojani/leetcode_solution/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ishitabhojani/leetcode_solution/tree/master/0101-symmetric-tree) |
+| [0801-is-graph-bipartite](https://github.com/ishitabhojani/leetcode_solution/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -416,4 +419,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ishitabhojani/leetcode_solution/tree/master/0051-n-queens) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ishitabhojani/leetcode_solution/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
