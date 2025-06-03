@@ -413,6 +413,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/ishitabhojani/leetcode_solution/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/ishitabhojani/leetcode_solution/tree/master/0185-department-top-three-salaries) |
 ## Monotonic Queue
 |  |
