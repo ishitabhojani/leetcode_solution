@@ -95,6 +95,7 @@
 | [0051-n-queens](https://github.com/ishitabhojani/leetcode_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ishitabhojani/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishitabhojani/leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ishitabhojani/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ishitabhojani/leetcode_solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ishitabhojani/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ishitabhojani/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
@@ -218,6 +219,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ishitabhojani/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ishitabhojani/leetcode_solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ishitabhojani/leetcode_solution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ishitabhojani/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
